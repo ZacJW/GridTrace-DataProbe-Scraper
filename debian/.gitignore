@@ -1,0 +1,6 @@
+gridtrace-dataprobe-scraper.*.debhelper
+gridtrace-dataprobe-scraper.substvars
+gridtrace-dataprobe-scraper/
+gridtrace-dataprobe-scraper-*/
+files
+debhelper-build-stamp

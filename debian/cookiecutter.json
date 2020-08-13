@@ -1,0 +1,13 @@
+{
+    "_template": "https://github.com/Springerle/dh-virtualenv-mold.git",
+    "distro": "UNRELEASED",
+    "email": "zac@zacjw.com",
+    "full_name": "Zac Wilson",
+    "package": "gridtrace-dataprobe-scraper",
+    "repo_name": "debian",
+    "short_description": "Python server for screen scraping web data into GridTrace's data aggregator",
+    "snake": "/usr/bin/python3",
+    "url": "https://github.com/ZacJW/GridTrace-DataProbe-Scraper",
+    "version": "0.1.0",
+    "year": "2020"
+}
